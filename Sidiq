@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Review Drama Pendek</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Review Drama Pendek</h1>
+    <p>Berbagi opini tentang drama pendek dan film mini</p>
+  </header>
+
+  <main>
+    <section class="review">
+      <h2>Drama Terbaru</h2>
+
+      <article>
+        <h3>🌙 Midnight Coffee (2024)</h3>
+        <p>Drama pendek bertema romansa yang hangat dan sederhana. Kisah dua orang asing yang bertemu di kedai kopi larut malam.</p>
+        <p><strong>Rating:</strong> ⭐⭐⭐⭐☆ (4/5)</p>
+      </article>
+
+      <article>
+        <h3>🎭 Hidden Smile (2023)</h3>
+        <p>Drama misteri singkat yang menyentuh. Menceritakan seseorang yang menemukan arti bahagia dari rahasia kecil di masa lalunya.</p>
+        <p><strong>Rating:</strong> ⭐⭐⭐⭐½
